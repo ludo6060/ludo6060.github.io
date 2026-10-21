@@ -1,0 +1,944 @@
+{
+  "id": "BARI-BENCH-2026-10-21",
+  "version": "1.0",
+  "date_on_screen": "21/10/26",
+  "basis": "user_supplied_photographs",
+  "status": "educational_observations_not_acceptance_report",
+  "files_received": 28,
+  "unique_images": 27,
+  "inventory": [
+    {
+      "file": "IMG_3825.jpeg",
+      "sha256": "b1b4d77ac8c4bf2544d3011f622d4ba795316b83b3fc92375a6e409520702560",
+      "bytes": 789590,
+      "kind": "benchHardware",
+      "identical_to": null,
+      "inspected": true
+    },
+    {
+      "file": "IMG_3826.jpeg",
+      "sha256": "f24fe549be8abafdce4a6556df359e10fe4d9900e1a843bf3699db31f33fb794",
+      "bytes": 703223,
+      "kind": "benchHardware",
+      "identical_to": null,
+      "inspected": true
+    },
+    {
+      "file": "IMG_3827.jpeg",
+      "sha256": "715ac257c6f6859985b56c25dfbb63e24df30921cd8be0165149326e05378d23",
+      "bytes": 373116,
+      "kind": "benchHardware",
+      "identical_to": null,
+      "inspected": true
+    },
+    {
+      "file": "IMG_3828.jpeg",
+      "sha256": "b32133d45106d6ae63f416ba36f41f900870a716fef42b16423dcdb3d81bac97",
+      "bytes": 689574,
+      "kind": "benchHardware",
+      "identical_to": null,
+      "inspected": true
+    },
+    {
+      "file": "IMG_3829.jpeg",
+      "sha256": "d5bbe75a6f5efb384f203c5d1365a82bd0948261ff2bbad1c0188036dfbadba1",
+      "bytes": 754178,
+      "kind": "benchHardware",
+      "identical_to": null,
+      "inspected": true
+    },
+    {
+      "file": "IMG_3830.jpeg",
+      "sha256": "11792bc91aa137a1d2f1acf333802fcff7714e4ad2241ed278b25e471e1e87a6",
+      "bytes": 920428,
+      "kind": "benchHardware",
+      "identical_to": null,
+      "inspected": true
+    },
+    {
+      "file": "IMG_3833.jpeg",
+      "sha256": "c662ff9097844051d401ce055b7f7125a59186f6da011f4be678253c6bd5f4ac",
+      "bytes": 476141,
+      "kind": "benchScreen",
+      "identical_to": null,
+      "inspected": true
+    },
+    {
+      "file": "IMG_3834.jpeg",
+      "sha256": "fc65d4bfc242d88721373769bb0053536e70e3a8b6e239e0db0bec430b4edd46",
+      "bytes": 438846,
+      "kind": "benchScreen",
+      "identical_to": null,
+      "inspected": true
+    },
+    {
+      "file": "IMG_3835.jpeg",
+      "sha256": "4432dedd4ebbb359d1ed9f91b4e9b14407023a74ce27841234f0c00c7fcd2d6c",
+      "bytes": 443911,
+      "kind": "benchScreen",
+      "identical_to": null,
+      "inspected": true
+    },
+    {
+      "file": "IMG_3836.jpeg",
+      "sha256": "07667b41535772c3b71ae56936652406d262513aec3623495c80ddf342877a45",
+      "bytes": 414777,
+      "kind": "benchScreen",
+      "identical_to": null,
+      "inspected": true
+    },
+    {
+      "file": "IMG_3837.jpeg",
+      "sha256": "b85b64280c90a184816c6fda9eb4c5432dd719ad74bf8b8d4dfa21f35c69a753",
+      "bytes": 417294,
+      "kind": "benchScreen",
+      "identical_to": null,
+      "inspected": true
+    },
+    {
+      "file": "IMG_3838.jpeg",
+      "sha256": "fb54f0da61eb0e1ef9090c12db02e34e0dce727316bab820b74ba5f3909547db",
+      "bytes": 446470,
+      "kind": "benchScreen",
+      "identical_to": null,
+      "inspected": true
+    },
+    {
+      "file": "IMG_3839.jpeg",
+      "sha256": "33d4b13d8d034af8c4ca6004df02da07388bde415327041abba0a0ab9a840ddc",
+      "bytes": 457382,
+      "kind": "benchScreen",
+      "identical_to": null,
+      "inspected": true
+    },
+    {
+      "file": "IMG_3840.jpeg",
+      "sha256": "7ee03bdfd210a80f48253cde493f6aabc0fb0941e284b22fd0259859db2ed052",
+      "bytes": 498690,
+      "kind": "benchScreen",
+      "identical_to": null,
+      "inspected": true
+    },
+    {
+      "file": "IMG_3841.jpeg",
+      "sha256": "c26b2a081e0cbf588b944684e08f24852f8434da1d3e56d88a8bbfe62efefc8c",
+      "bytes": 438405,
+      "kind": "benchScreen",
+      "identical_to": null,
+      "inspected": true
+    },
+    {
+      "file": "IMG_3842.jpeg",
+      "sha256": "ba09202573205255c116c99631146d30b9e24a218adedda9d68a317aff766efc",
+      "bytes": 483565,
+      "kind": "benchScreen",
+      "identical_to": null,
+      "inspected": true
+    },
+    {
+      "file": "IMG_3843.jpeg",
+      "sha256": "15d9de971d3c90829c0296f9e4f1403b9f591ec1d3a6ad4235adf163adcabfc0",
+      "bytes": 450462,
+      "kind": "benchScreen",
+      "identical_to": null,
+      "inspected": true
+    },
+    {
+      "file": "IMG_3844.jpeg",
+      "sha256": "a7fb63e0ff923a854227b8438ab5f98e0d38f47b71e9b0d837844f7cd72ba94b",
+      "bytes": 699790,
+      "kind": "benchCurveSheet",
+      "identical_to": null,
+      "inspected": true
+    },
+    {
+      "file": "IMG_3845.jpeg",
+      "sha256": "4f114bbbed16ff23506a32bb7a3111daf7b4137d8eadda123f08fb475f763106",
+      "bytes": 456633,
+      "kind": "benchScreen",
+      "identical_to": null,
+      "inspected": true
+    },
+    {
+      "file": "IMG_3846(1).jpeg",
+      "sha256": "14fa4b51842e99c88137f0c2511c00a5c8c0e2ad61873666c9d175be55ca74cb",
+      "bytes": 469657,
+      "kind": "benchScreen",
+      "identical_to": "IMG_3846.jpeg",
+      "inspected": true
+    },
+    {
+      "file": "IMG_3846.jpeg",
+      "sha256": "14fa4b51842e99c88137f0c2511c00a5c8c0e2ad61873666c9d175be55ca74cb",
+      "bytes": 469657,
+      "kind": "benchScreen",
+      "identical_to": null,
+      "inspected": true
+    },
+    {
+      "file": "IMG_3847.jpeg",
+      "sha256": "4b1aa8da176de11783ea2d935bec50a8520adaffe8ed34f4385cb6fe960501f2",
+      "bytes": 486885,
+      "kind": "benchScreen",
+      "identical_to": null,
+      "inspected": true
+    },
+    {
+      "file": "IMG_3848.jpeg",
+      "sha256": "202cffc497d4a00f471b65fa57254701e6648c12579349236718da9848139f74",
+      "bytes": 464904,
+      "kind": "benchScreen",
+      "identical_to": null,
+      "inspected": true
+    },
+    {
+      "file": "IMG_3849.jpeg",
+      "sha256": "960930f38fabde367b818d9d2463874dd16d2b73680c026ce72f0c67d8e0d066",
+      "bytes": 455325,
+      "kind": "benchScreen",
+      "identical_to": null,
+      "inspected": true
+    },
+    {
+      "file": "IMG_3850.jpeg",
+      "sha256": "26f998b3db7d0bfe798e515529243a879eecd4fcab99066b1b3ea40c69e13cb2",
+      "bytes": 746236,
+      "kind": "benchHardware",
+      "identical_to": null,
+      "inspected": true
+    },
+    {
+      "file": "IMG_3851.jpeg",
+      "sha256": "e39fc6bb3dbbd197dbb5f29f18d40bfcad020a1835e098f9f3e634010cf38e33",
+      "bytes": 524254,
+      "kind": "benchCabinet",
+      "identical_to": null,
+      "inspected": true
+    },
+    {
+      "file": "IMG_3852(1).jpeg",
+      "sha256": "8abc823f5173542ccc05179eb2fbba4537e593a9026d88a5b30e618c1c076dea",
+      "bytes": 663695,
+      "kind": "benchCabinet",
+      "identical_to": null,
+      "inspected": true
+    },
+    {
+      "file": "IMG_3853(1).jpeg",
+      "sha256": "5b60a437786c0e54966213d3d227775f92a3c81ba3456fd240e21502f5eeb404",
+      "bytes": 656773,
+      "kind": "benchCabinet",
+      "identical_to": null,
+      "inspected": true
+    }
+  ],
+  "screen_readings": [
+    {
+      "source": "IMG_3833.jpeg",
+      "raw": {
+        "speed_rpm": "1757",
+        "oil_C": "25",
+        "water_C": "27",
+        "flow_DN65_m3_h": "11.20",
+        "flow_DN200_m3_h": "0.17",
+        "discharge_bar": "3.01",
+        "suction_bar": "-0.24",
+        "total_flow_m3_h": "11",
+        "total_head_m": "33.1",
+        "sampling": "OFF"
+      },
+      "values": {
+        "speed_rpm": 1757.0,
+        "oil_C": 25.0,
+        "water_C": 27.0,
+        "flow_DN65_m3_h": 11.2,
+        "flow_DN200_m3_h": 0.17,
+        "discharge_bar": 3.01,
+        "suction_bar": -0.24,
+        "total_flow_m3_h": 11.0,
+        "total_head_m": 33.1,
+        "sampling": "OFF",
+        "flow_DN150_m3_h": null,
+        "flow_DN300_m3_h": null
+      },
+      "validation": "visual_transcription_unvalidated",
+      "captured_at": null,
+      "review_flags": []
+    },
+    {
+      "source": "IMG_3834.jpeg",
+      "raw": {
+        "speed_rpm": "2355",
+        "oil_C": "26",
+        "water_C": "35",
+        "flow_DN65_m3_h": "16.64",
+        "flow_DN200_m3_h": "7.34",
+        "discharge_bar": "5.57",
+        "suction_bar": "-0.22",
+        "total_flow_m3_h": "24",
+        "total_head_m": "59",
+        "sampling": "OFF"
+      },
+      "values": {
+        "speed_rpm": 2355.0,
+        "oil_C": 26.0,
+        "water_C": 35.0,
+        "flow_DN65_m3_h": 16.64,
+        "flow_DN200_m3_h": 7.34,
+        "discharge_bar": 5.57,
+        "suction_bar": -0.22,
+        "total_flow_m3_h": 24.0,
+        "total_head_m": 59.0,
+        "sampling": "OFF",
+        "flow_DN150_m3_h": null,
+        "flow_DN300_m3_h": null
+      },
+      "validation": "visual_transcription_unvalidated",
+      "captured_at": null,
+      "review_flags": []
+    },
+    {
+      "source": "IMG_3835.jpeg",
+      "raw": {
+        "speed_rpm": "2347",
+        "oil_C": "27",
+        "water_C": "38",
+        "flow_DN65_m3_h": "17.21",
+        "flow_DN200_m3_h": "7.55",
+        "discharge_bar": "5.56",
+        "suction_bar": "-0.20",
+        "total_flow_m3_h": "25",
+        "total_head_m": "58.7",
+        "sampling": "OFF"
+      },
+      "values": {
+        "speed_rpm": 2347.0,
+        "oil_C": 27.0,
+        "water_C": 38.0,
+        "flow_DN65_m3_h": 17.21,
+        "flow_DN200_m3_h": 7.55,
+        "discharge_bar": 5.56,
+        "suction_bar": -0.2,
+        "total_flow_m3_h": 25.0,
+        "total_head_m": 58.7,
+        "sampling": "OFF",
+        "flow_DN150_m3_h": null,
+        "flow_DN300_m3_h": null
+      },
+      "validation": "visual_transcription_unvalidated",
+      "captured_at": null,
+      "review_flags": []
+    },
+    {
+      "source": "IMG_3836.jpeg",
+      "raw": {
+        "speed_rpm": "2755",
+        "oil_C": "30",
+        "water_C": "52",
+        "flow_DN65_m3_h": "18.08",
+        "flow_DN200_m3_h": "106.06",
+        "discharge_bar": "6.94",
+        "suction_bar": "-0.22",
+        "total_flow_m3_h": "109",
+        "total_head_m": "53.1",
+        "sampling": "OFF"
+      },
+      "values": {
+        "speed_rpm": 2755.0,
+        "oil_C": 30.0,
+        "water_C": 52.0,
+        "flow_DN65_m3_h": 18.08,
+        "flow_DN200_m3_h": 106.06,
+        "discharge_bar": 6.94,
+        "suction_bar": -0.22,
+        "total_flow_m3_h": 109.0,
+        "total_head_m": 53.1,
+        "sampling": "OFF",
+        "flow_DN150_m3_h": null,
+        "flow_DN300_m3_h": null
+      },
+      "validation": "visual_transcription_unvalidated",
+      "captured_at": null,
+      "review_flags": [
+        "display_mismatch"
+      ]
+    },
+    {
+      "source": "IMG_3837.jpeg",
+      "raw": {
+        "speed_rpm": "2755",
+        "oil_C": "30",
+        "water_C": "52",
+        "flow_DN65_m3_h": "18.08",
+        "flow_DN200_m3_h": "106.06",
+        "discharge_bar": "6.94",
+        "suction_bar": "-0.22",
+        "total_flow_m3_h": "124",
+        "total_head_m": "73",
+        "sampling": "OFF"
+      },
+      "values": {
+        "speed_rpm": 2755.0,
+        "oil_C": 30.0,
+        "water_C": 52.0,
+        "flow_DN65_m3_h": 18.08,
+        "flow_DN200_m3_h": 106.06,
+        "discharge_bar": 6.94,
+        "suction_bar": -0.22,
+        "total_flow_m3_h": 124.0,
+        "total_head_m": 73.0,
+        "sampling": "OFF",
+        "flow_DN150_m3_h": null,
+        "flow_DN300_m3_h": null
+      },
+      "validation": "visual_transcription_unvalidated",
+      "captured_at": null,
+      "review_flags": []
+    },
+    {
+      "source": "IMG_3838.jpeg",
+      "raw": {
+        "speed_rpm": "2755",
+        "oil_C": "30",
+        "water_C": "52",
+        "flow_DN65_m3_h": "18.08",
+        "flow_DN200_m3_h": "106.06",
+        "discharge_bar": "6.94",
+        "suction_bar": "-0.22",
+        "total_flow_m3_h": "124",
+        "total_head_m": "73",
+        "sampling": "OFF"
+      },
+      "values": {
+        "speed_rpm": 2755.0,
+        "oil_C": 30.0,
+        "water_C": 52.0,
+        "flow_DN65_m3_h": 18.08,
+        "flow_DN200_m3_h": 106.06,
+        "discharge_bar": 6.94,
+        "suction_bar": -0.22,
+        "total_flow_m3_h": 124.0,
+        "total_head_m": 73.0,
+        "sampling": "OFF",
+        "flow_DN150_m3_h": null,
+        "flow_DN300_m3_h": null
+      },
+      "validation": "visual_transcription_unvalidated",
+      "captured_at": null,
+      "review_flags": []
+    },
+    {
+      "source": "IMG_3839.jpeg",
+      "raw": {
+        "speed_rpm": "3012",
+        "oil_C": "36",
+        "water_C": "72",
+        "flow_DN65_m3_h": "20.61",
+        "flow_DN200_m3_h": "113.97",
+        "discharge_bar": "8.43",
+        "suction_bar": "-0.21",
+        "total_flow_m3_h": "135",
+        "total_head_m": "88.1",
+        "sampling": "OFF"
+      },
+      "values": {
+        "speed_rpm": 3012.0,
+        "oil_C": 36.0,
+        "water_C": 72.0,
+        "flow_DN65_m3_h": 20.61,
+        "flow_DN200_m3_h": 113.97,
+        "discharge_bar": 8.43,
+        "suction_bar": -0.21,
+        "total_flow_m3_h": 135.0,
+        "total_head_m": 88.1,
+        "sampling": "OFF",
+        "flow_DN150_m3_h": null,
+        "flow_DN300_m3_h": null
+      },
+      "validation": "visual_transcription_unvalidated",
+      "captured_at": null,
+      "review_flags": []
+    },
+    {
+      "source": "IMG_3840.jpeg",
+      "raw": {
+        "speed_rpm": "2998",
+        "oil_C": "63",
+        "water_C": "76",
+        "flow_DN65_m3_h": "20.02",
+        "flow_DN200_m3_h": "176.41",
+        "discharge_bar": "7.92",
+        "suction_bar": "-0.23",
+        "total_flow_m3_h": "196",
+        "total_head_m": "83.1",
+        "sampling": "OFF"
+      },
+      "values": {
+        "speed_rpm": 2998.0,
+        "oil_C": 63.0,
+        "water_C": 76.0,
+        "flow_DN65_m3_h": 20.02,
+        "flow_DN200_m3_h": 176.41,
+        "discharge_bar": 7.92,
+        "suction_bar": -0.23,
+        "total_flow_m3_h": 196.0,
+        "total_head_m": 83.1,
+        "sampling": "OFF",
+        "flow_DN150_m3_h": null,
+        "flow_DN300_m3_h": null
+      },
+      "validation": "visual_transcription_unvalidated",
+      "captured_at": null,
+      "review_flags": []
+    },
+    {
+      "source": "IMG_3841.jpeg",
+      "raw": {
+        "speed_rpm": "2993",
+        "oil_C": "80",
+        "water_C": "76",
+        "flow_DN65_m3_h": "20.02",
+        "flow_DN200_m3_h": "183.79",
+        "discharge_bar": "7.83",
+        "suction_bar": "-0.23",
+        "total_flow_m3_h": "204",
+        "total_head_m": "82.2",
+        "sampling": "ON"
+      },
+      "values": {
+        "speed_rpm": 2993.0,
+        "oil_C": 80.0,
+        "water_C": 76.0,
+        "flow_DN65_m3_h": 20.02,
+        "flow_DN200_m3_h": 183.79,
+        "discharge_bar": 7.83,
+        "suction_bar": -0.23,
+        "total_flow_m3_h": 204.0,
+        "total_head_m": 82.2,
+        "sampling": "ON",
+        "flow_DN150_m3_h": null,
+        "flow_DN300_m3_h": null
+      },
+      "validation": "visual_transcription_unvalidated",
+      "captured_at": null,
+      "review_flags": []
+    },
+    {
+      "source": "IMG_3842.jpeg",
+      "raw": {
+        "speed_rpm": "2986",
+        "oil_C": "80",
+        "water_C": "76",
+        "flow_DN65_m3_h": "19.99",
+        "flow_DN200_m3_h": "183.61",
+        "discharge_bar": "7.90",
+        "suction_bar": "-0.23",
+        "total_flow_m3_h": "204",
+        "total_head_m": "82.9",
+        "sampling": "ON"
+      },
+      "values": {
+        "speed_rpm": 2986.0,
+        "oil_C": 80.0,
+        "water_C": 76.0,
+        "flow_DN65_m3_h": 19.99,
+        "flow_DN200_m3_h": 183.61,
+        "discharge_bar": 7.9,
+        "suction_bar": -0.23,
+        "total_flow_m3_h": 204.0,
+        "total_head_m": 82.9,
+        "sampling": "ON",
+        "flow_DN150_m3_h": null,
+        "flow_DN300_m3_h": null
+      },
+      "validation": "visual_transcription_unvalidated",
+      "captured_at": null,
+      "review_flags": []
+    },
+    {
+      "source": "IMG_3843.jpeg",
+      "raw": {
+        "speed_rpm": "2972",
+        "oil_C": "87",
+        "water_C": "76",
+        "flow_DN65_m3_h": "19.12",
+        "flow_DN200_m3_h": "272.78",
+        "discharge_bar": "7.07",
+        "suction_bar": "-0.27",
+        "total_flow_m3_h": "292",
+        "total_head_m": "74.8",
+        "sampling": "ON"
+      },
+      "values": {
+        "speed_rpm": 2972.0,
+        "oil_C": 87.0,
+        "water_C": 76.0,
+        "flow_DN65_m3_h": 19.12,
+        "flow_DN200_m3_h": 272.78,
+        "discharge_bar": 7.07,
+        "suction_bar": -0.27,
+        "total_flow_m3_h": 292.0,
+        "total_head_m": 74.8,
+        "sampling": "ON",
+        "flow_DN150_m3_h": null,
+        "flow_DN300_m3_h": null
+      },
+      "validation": "visual_transcription_unvalidated",
+      "captured_at": null,
+      "review_flags": []
+    },
+    {
+      "source": "IMG_3845.jpeg",
+      "raw": {
+        "speed_rpm": "2988",
+        "oil_C": "87",
+        "water_C": "76",
+        "flow_DN65_m3_h": "19.76",
+        "flow_DN200_m3_h": "204.49",
+        "discharge_bar": "7.62",
+        "suction_bar": "-0.24",
+        "total_flow_m3_h": "224",
+        "total_head_m": "80.1",
+        "sampling": "ON"
+      },
+      "values": {
+        "speed_rpm": 2988.0,
+        "oil_C": 87.0,
+        "water_C": 76.0,
+        "flow_DN65_m3_h": 19.76,
+        "flow_DN200_m3_h": 204.49,
+        "discharge_bar": 7.62,
+        "suction_bar": -0.24,
+        "total_flow_m3_h": 224.0,
+        "total_head_m": 80.1,
+        "sampling": "ON",
+        "flow_DN150_m3_h": null,
+        "flow_DN300_m3_h": null
+      },
+      "validation": "visual_transcription_unvalidated",
+      "captured_at": null,
+      "review_flags": []
+    },
+    {
+      "source": "IMG_3846.jpeg",
+      "raw": {
+        "speed_rpm": "2991",
+        "oil_C": "87",
+        "water_C": "76",
+        "flow_DN65_m3_h": "20.29",
+        "flow_DN200_m3_h": "137.28",
+        "discharge_bar": "8.15",
+        "suction_bar": "-0.19",
+        "total_flow_m3_h": "158",
+        "total_head_m": "85",
+        "sampling": "ON"
+      },
+      "values": {
+        "speed_rpm": 2991.0,
+        "oil_C": 87.0,
+        "water_C": 76.0,
+        "flow_DN65_m3_h": 20.29,
+        "flow_DN200_m3_h": 137.28,
+        "discharge_bar": 8.15,
+        "suction_bar": -0.19,
+        "total_flow_m3_h": 158.0,
+        "total_head_m": 85.0,
+        "sampling": "ON",
+        "flow_DN150_m3_h": null,
+        "flow_DN300_m3_h": null
+      },
+      "validation": "visual_transcription_unvalidated",
+      "captured_at": null,
+      "review_flags": []
+    },
+    {
+      "source": "IMG_3847.jpeg",
+      "raw": {
+        "speed_rpm": "2990",
+        "oil_C": "87",
+        "water_C": "76",
+        "flow_DN65_m3_h": "20.24",
+        "flow_DN200_m3_h": "138.24",
+        "discharge_bar": "8.19",
+        "suction_bar": "-0.20",
+        "total_flow_m3_h": "158",
+        "total_head_m": "85.5",
+        "sampling": "ON"
+      },
+      "values": {
+        "speed_rpm": 2990.0,
+        "oil_C": 87.0,
+        "water_C": 76.0,
+        "flow_DN65_m3_h": 20.24,
+        "flow_DN200_m3_h": 138.24,
+        "discharge_bar": 8.19,
+        "suction_bar": -0.2,
+        "total_flow_m3_h": 158.0,
+        "total_head_m": 85.5,
+        "sampling": "ON",
+        "flow_DN150_m3_h": null,
+        "flow_DN300_m3_h": null
+      },
+      "validation": "visual_transcription_unvalidated",
+      "captured_at": null,
+      "review_flags": []
+    },
+    {
+      "source": "IMG_3848.jpeg",
+      "raw": {
+        "speed_rpm": "3000",
+        "oil_C": "87",
+        "water_C": "76",
+        "flow_DN65_m3_h": "3.34",
+        "flow_DN200_m3_h": "0.39",
+        "discharge_bar": "9.03",
+        "suction_bar": "-0.18",
+        "total_flow_m3_h": "4",
+        "total_head_m": "93.9",
+        "sampling": "ON"
+      },
+      "values": {
+        "speed_rpm": 3000.0,
+        "oil_C": 87.0,
+        "water_C": 76.0,
+        "flow_DN65_m3_h": 3.34,
+        "flow_DN200_m3_h": 0.39,
+        "discharge_bar": 9.03,
+        "suction_bar": -0.18,
+        "total_flow_m3_h": 4.0,
+        "total_head_m": 93.9,
+        "sampling": "ON",
+        "flow_DN150_m3_h": null,
+        "flow_DN300_m3_h": null
+      },
+      "validation": "visual_transcription_unvalidated",
+      "captured_at": null,
+      "review_flags": []
+    },
+    {
+      "source": "IMG_3849.jpeg",
+      "raw": {
+        "speed_rpm": "2993",
+        "oil_C": "87",
+        "water_C": "76",
+        "flow_DN65_m3_h": "20.58",
+        "flow_DN200_m3_h": "40.87",
+        "discharge_bar": "8.88",
+        "suction_bar": "-0.20",
+        "total_flow_m3_h": "61",
+        "total_head_m": "92.6",
+        "sampling": "ON"
+      },
+      "values": {
+        "speed_rpm": 2993.0,
+        "oil_C": 87.0,
+        "water_C": 76.0,
+        "flow_DN65_m3_h": 20.58,
+        "flow_DN200_m3_h": 40.87,
+        "discharge_bar": 8.88,
+        "suction_bar": -0.2,
+        "total_flow_m3_h": 61.0,
+        "total_head_m": 92.6,
+        "sampling": "ON",
+        "flow_DN150_m3_h": null,
+        "flow_DN300_m3_h": null
+      },
+      "validation": "visual_transcription_unvalidated",
+      "captured_at": null,
+      "review_flags": []
+    }
+  ],
+  "screen_settings_observed": {
+    "Nominal Flow": "100 m3/h",
+    "T.Preload [min]": "10",
+    "note": "Observed software settings; actual rated duty and completed test duration are not established."
+  },
+  "document_observed": {
+    "source": "IMG_3844.jpeg",
+    "pump_type": "Atmos GIGA NF 125/250.1",
+    "designation": "atmos_giga_nf_vds_125_250.1_250-274",
+    "document_no": "C125250.1-N37",
+    "revision": "01",
+    "date_as_printed": "08/04/2026",
+    "page": "1 of 2",
+    "frequency_Hz": 50,
+    "speed_rpm": 2985,
+    "impeller_diameters_mm": [
+      250,
+      260,
+      274
+    ],
+    "highlighted_diameter_mm": 250,
+    "suction_flange": "DNS 125",
+    "discharge_flange": "DND 100",
+    "power_curve_labels_original": [
+      "160 kW E / 148 kW Diesel",
+      "132 kW E / 129 kW Diesel",
+      "110 kW E / 107 kW Diesel"
+    ],
+    "printed_speed_note_rpm": [
+      1480,
+      2985
+    ],
+    "printed_speed_note_scope": "Statement on photographed sheet only; not proof of current certification or installed configuration.",
+    "installed_diameter_confirmed": false,
+    "installed_pump_identity_confirmed": false
+  },
+  "controller_observed": {
+    "source": "IMG_3827.jpeg",
+    "visible_text": [
+      "EN 17451 System",
+      "FIRE PUMP EN 17451",
+      "MAN",
+      "START A",
+      "START B",
+      "AUT.-MAN"
+    ],
+    "electrical_pinout_confirmed": false,
+    "communication_protocol_confirmed": false
+  },
+  "technical_background": [
+    {
+      "title": "Wilo — Pump Physics Made Simple",
+      "url": "https://wilo.com/us/en_us/Training/On-Demand-Resources/Pump-Basics/%E2%80%8BPump-Physics-Made-Simple%E2%80%8B/",
+      "scope": "General pressure, velocity and elevation head concepts; does not validate this test."
+    }
+  ],
+  "manufacturer_thresholds_added": false,
+  "raw_logger_export_available": false,
+  "exhaust_backpressure_available": false,
+  "guide": {
+    "fr": {
+      "bench": "Essai sur banc",
+      "benchSub": "Cas pratique photographié · Bari · 21 octobre 2026",
+      "benchLimit": "Relevés visuels de formation, sans validation métrologique. Ces valeurs ne sont ni des seuils constructeur ni un procès-verbal de réception. Aucune donnée de ce cas ne remplit vos contrôles d’intervention.",
+      "benchIdentity": "Matériel et documents observés",
+      "benchIdentityText": "Pompe horizontale entraînée par diesel ; petite pompe verticale à proximité, fonction jockey probable à confirmer. Coffret marqué EN 17451 System. Fiche : Atmos GIGA NF 125/250.1, document C125250.1-N37, révision 01, 08/04/2026, page 1/2, 50 Hz, 2 985 tr/min. Courbes Ø250/260/274 mm ; Ø250 surligné. La photo ne prouve ni le diamètre monté ni l’identité exacte du groupe.",
+      "benchReadings": "16 captures d’écran distinctes",
+      "benchReadingNote": "Chiffres transcrits tels qu’affichés, point décimal d’origine conservé. « olio » et « acqua » sont les libellés du logiciel : emplacement des sondes à confirmer. DN65 et DN200 désignent les voies du banc ; DN150/DN300 sans valeur lisible restent inconnus. L’heure de chaque photo n’est pas établie.",
+      "benchSampling": "Échantillonnage affiché",
+      "benchHead": "Hauteur affichée",
+      "benchFlow": "Débit total affiché",
+      "benchWarning": "Écart d’affichage à vérifier",
+      "benchMismatch": "IMG_3836 : 18.08 + 106.06 = 124.14 m³/h sur les voies, mais total affiché 109 m³/h et hauteur 53.1 m. IMG_3837/3838 : mêmes valeurs des voies, total 124 m³/h et hauteur 73 m. Cause inconnue : rafraîchissement ou état de capture possible, sans diagnostic certain. Conserver les deux lectures ; ne pas corriger automatiquement.",
+      "benchPlot": "Points photographiés avec affichage ON",
+      "benchPlotNote": "Nuage descriptif sans liaison ni interpolation. Les huit captures ON se situent entre 2 972 et 3 000 tr/min. ON indique l’état affiché de l’échantillonnage, sans prouver un palier stabilisé. Ce graphique n’est pas une courbe certifiée ; les points OFF à d’autres régimes ne sont pas mélangés.",
+      "benchInterpret": "Lecture technique et limites",
+      "benchThermal": "La séquence numérotée montre la montée des températures « olio » de 25 à 87 °C et « acqua » de 27 à 76 °C. On observe ensuite plusieurs affichages à 76 °C. Cela ne démontre ni la durée d’essai prescrite ni le respect d’une limite moteur : son code complet et les positions des sondes manquent.",
+      "benchNearZero": "IMG_3848 : 4 m³/h et 93.9 m à 3 000 tr/min. C’est un point de faible débit, pas un débit nul prouvé. Une voie indique encore 3.34 m³/h. Le rôle exact du bypass et du refroidissement exige le schéma hydraulique.",
+      "benchSettings": "« Nominal Flow 100 m3/h » et « T.Preload 10 min » sont des réglages visibles. Ils ne suffisent pas à établir le débit nominal réel du groupe ou la durée effectivement réalisée. Les annotations manuscrites de la courbe ne sont pas des points d’essai certifiés.",
+      "benchPressure": "Une pression d’aspiration négative est affichée ; elle ne suffit pas à conclure à une cavitation. Pour comparer la hauteur : H = (p₂ − p₁)/(ρg) + (v₂² − v₁²)/(2g) + z₂ − z₁. Exemple IMG_3842 : 7.90 − (−0.23) = 8.13 bar, soit environ 82.87 m avec ρ = 1 000 kg/m³ et g = 9.81 m/s², avant corrections de vitesse et d’altitude. Le banc affiche 82.9 m ; son algorithme n’est pas documenté.",
+      "benchCabinetText": "Coffret : deux voies A/B et deux modules de charge visibles, relais/contacteurs et borniers repérés. Les prises ressemblent à des RJ45 ; ni protocole Ethernet ni brochage ne peuvent être déduits de leur forme. Les étiquettes « Pump running » et « FUEL TANK NOT FULL » servent de repères photographiques, sans logique de contact confirmée.",
+      "benchToolsText": "Visible : supervision du banc, manomètres/capteurs et thermomètre infrarouge tenu par l’opérateur. Pour rendre un relevé exploitable : consigner références, unités, points de mesure, certificats d’étalonnage et acquisition synchronisée. Une mesure infrarouge de surface ne remplace pas la température interne du fluide.",
+      "benchMissing": "Informations encore manquantes",
+      "benchMissingText": "Plaques pompe/groupe/moteur et roue montée ; page 2/2 de la courbe et rapport d’essai complet ; point nominal réel et critère d’acceptation applicable ; export horodaté du banc et certificats capteurs ; température de l’eau pompée, niveaux et diamètres aux prises de pression ; schéma des voies de débit et bypass ; schéma électrique, liste d’E/S et manuel exact du coffret ; mesures de contre-pression d’échappement, dimensions et abaques. Les photos ne comblent pas ces absences.",
+      "benchInventory": "Inventaire des 28 fichiers · 27 images uniques",
+      "benchDuplicate": "Doublon binaire de",
+      "benchHardware": "Vue du matériel",
+      "benchScreen": "Écran de supervision",
+      "benchCurveSheet": "Fiche de courbes",
+      "benchCabinet": "Coffret électrique",
+      "benchExport": "Exporter ce cas documentaire (JSON)",
+      "benchExportNote": "Contient les lectures brutes, les références, l’analyse en quatre langues et l’inventaire avec empreintes SHA-256. Les photos originales sont conservées dans la conversation et ne sont pas incluses dans cet export."
+    },
+    "nl": {
+      "bench": "Testbank",
+      "benchSub": "Gefotografeerde praktijkcase · Bari · 21 oktober 2026",
+      "benchLimit": "Visuele opleidingsgegevens, zonder metrologische validatie. Dit zijn geen fabrikantgrenzen of opleveringsverslag. Deze casus vult uw interventiecontroles niet in.",
+      "benchIdentity": "Waargenomen apparatuur en documenten",
+      "benchIdentityText": "Horizontale dieselpomp; kleine verticale pomp ernaast, vermoedelijk jockeyfunctie te bevestigen. Kast gemarkeerd EN 17451 System. Blad: Atmos GIGA NF 125/250.1, document C125250.1-N37, revisie 01, 08/04/2026, pagina 1/2, 50 Hz, 2 985 rpm. Curven Ø250/260/274 mm; Ø250 gemarkeerd. Foto bewijst gemonteerde diameter noch exacte groepsidentiteit.",
+      "benchReadings": "16 afzonderlijke schermfoto’s",
+      "benchReadingNote": "Cijfers zoals weergegeven, oorspronkelijke decimale punt behouden. “olio” en “acqua” zijn softwarelabels: sensorlocaties te bevestigen. DN65 en DN200 zijn bankkanalen; DN150/DN300 zonder leesbare waarde blijven onbekend. Tijdstip per foto niet vastgesteld.",
+      "benchSampling": "Weergegeven bemonstering",
+      "benchHead": "Weergegeven opvoerhoogte",
+      "benchFlow": "Weergegeven totaal debiet",
+      "benchWarning": "Weergaveverschil te controleren",
+      "benchMismatch": "IMG_3836: 18.08 + 106.06 = 124.14 m³/h op de kanalen, maar totaal 109 m³/h en hoogte 53.1 m. IMG_3837/3838: dezelfde kanaalwaarden, totaal 124 m³/h en hoogte 73 m. Oorzaak onbekend: mogelijk verversing of opnamefase, zonder zekere diagnose. Beide waarden bewaren; niet automatisch corrigeren.",
+      "benchPlot": "Gefotografeerde punten met ON-weergave",
+      "benchPlotNote": "Beschrijvende punten zonder verbinding of interpolatie. Acht ON-foto’s liggen tussen 2 972 en 3 000 rpm. ON geeft de bemonsteringsstatus aan, geen bewijs van stabilisatie. Geen gecertificeerde curve; OFF-punten bij andere toerentallen worden niet gemengd.",
+      "benchInterpret": "Technische interpretatie en grenzen",
+      "benchThermal": "De genummerde reeks toont “olio” van 25 naar 87 °C en “acqua” van 27 naar 76 °C, daarna meerdere waarden van 76 °C. Dit bewijst geen voorgeschreven testduur of motorlimiet: volledige motorcode en sensorlocaties ontbreken.",
+      "benchNearZero": "IMG_3848: 4 m³/h en 93.9 m bij 3 000 rpm. Laag debiet, geen bewezen nuldebiet. Eén kanaal toont nog 3.34 m³/h. De exacte bypass- en koelfunctie vereisen het hydraulische schema.",
+      "benchSettings": "“Nominal Flow 100 m3/h” en “T.Preload 10 min” zijn zichtbare instellingen. Ze bepalen niet het werkelijke nominale groepsdebiet of de uitgevoerde duur. Handgeschreven curve-aantekeningen zijn geen gecertificeerde meetpunten.",
+      "benchPressure": "Negatieve zuigdruk wordt weergegeven; dit bewijst geen cavitatie. Opvoerhoogte: H = (p₂ − p₁)/(ρg) + (v₂² − v₁²)/(2g) + z₂ − z₁. IMG_3842: 7.90 − (−0.23) = 8.13 bar, circa 82.87 m bij ρ = 1 000 kg/m³ en g = 9.81 m/s², vóór snelheids- en hoogtecorrecties. Bank toont 82.9 m; algoritme niet gedocumenteerd.",
+      "benchCabinetText": "Kast: twee A/B-kanalen en twee laadmodules zichtbaar, relais/contactoren en gemarkeerde klemmen. Stekkers lijken RJ45; vorm bewijst geen Ethernetprotocol of pinbezetting. Labels “Pump running” en “FUEL TANK NOT FULL” zijn fotoreferenties, zonder bevestigde contactlogica.",
+      "benchToolsText": "Zichtbaar: banksupervisie, manometers/sensoren en infraroodthermometer in de hand van de operator. Voor bruikbare metingen: referenties, eenheden, meetpunten, kalibratiecertificaten en gesynchroniseerde registratie vastleggen. Infrarood-oppervlaktetemperatuur vervangt geen interne vloeistoftemperatuur.",
+      "benchMissing": "Nog ontbrekende informatie",
+      "benchMissingText": "Pomp-/groeps-/motorplaten en gemonteerde waaier; curvepagina 2/2 en volledig testrapport; werkelijk nominaal punt en acceptatiecriterium; tijdgestempelde bankexport en sensorcertificaten; temperatuur van verpompt water, hoogten en diameters bij drukmeetpunten; debiet- en bypassschema; elektrisch schema, I/O-lijst en juiste kasthandleiding; uitlaattegendruk, afmetingen en nomogrammen. Foto’s vullen dit niet aan.",
+      "benchInventory": "Inventaris van 28 bestanden · 27 unieke beelden",
+      "benchDuplicate": "Identieke kopie van",
+      "benchHardware": "Apparatuurbeeld",
+      "benchScreen": "Supervisiescherm",
+      "benchCurveSheet": "Curveblad",
+      "benchCabinet": "Schakelkast",
+      "benchExport": "Deze documentatiecase exporteren (JSON)",
+      "benchExportNote": "Bevat ruwe aflezingen, referenties, analyse in vier talen en inventaris met SHA-256-hashes. Originele foto’s blijven in het gesprek en zitten niet in deze export."
+    },
+    "en": {
+      "bench": "Test bench",
+      "benchSub": "Photographed case study · Bari · 21 October 2026",
+      "benchLimit": "Visual training readings without metrological validation. These are neither manufacturer limits nor an acceptance report. This case does not populate your service checks.",
+      "benchIdentity": "Observed equipment and documents",
+      "benchIdentityText": "Horizontal diesel-driven pump; nearby small vertical pump, probable jockey function to confirm. Controller marked EN 17451 System. Sheet: Atmos GIGA NF 125/250.1, document C125250.1-N37, revision 01, 08/04/2026, page 1/2, 50 Hz, 2,985 rpm. Curves Ø250/260/274 mm; Ø250 highlighted. The photo proves neither installed diameter nor exact set identity.",
+      "benchReadings": "16 distinct screen photographs",
+      "benchReadingNote": "Values transcribed as displayed, retaining original decimal points. “olio” and “acqua” are software labels: confirm sensor locations. DN65 and DN200 identify bench channels; DN150/DN300 without readable values remain unknown. Individual photograph times are not established.",
+      "benchSampling": "Displayed sampling",
+      "benchHead": "Displayed head",
+      "benchFlow": "Displayed total flow",
+      "benchWarning": "Display discrepancy to review",
+      "benchMismatch": "IMG_3836: channels show 18.08 + 106.06 = 124.14 m³/h, but displayed total is 109 m³/h and head 53.1 m. IMG_3837/3838: same channel values, total 124 m³/h and head 73 m. Cause unknown: refresh timing or capture state is possible, without a confirmed diagnosis. Retain both readings; do not automatically correct them.",
+      "benchPlot": "Photographed points with ON displayed",
+      "benchPlotNote": "Descriptive scatter without connecting lines or interpolation. Eight ON photographs range from 2,972 to 3,000 rpm. ON is the displayed sampling status, not proof of a steady operating point. This is not a certified curve; OFF points at other speeds are not mixed in.",
+      "benchInterpret": "Technical interpretation and limits",
+      "benchThermal": "The numbered sequence shows “olio” rising from 25 to 87 °C and “acqua” from 27 to 76 °C, followed by several displays at 76 °C. This proves neither the required test duration nor compliance with an engine limit: full engine code and sensor locations are missing.",
+      "benchNearZero": "IMG_3848: 4 m³/h and 93.9 m at 3,000 rpm. This is low flow, not proven zero flow. One channel still shows 3.34 m³/h. Exact bypass and cooling functions require the hydraulic diagram.",
+      "benchSettings": "“Nominal Flow 100 m3/h” and “T.Preload 10 min” are visible settings. They do not establish actual set rated duty or completed duration. Handwritten curve annotations are not certified test points.",
+      "benchPressure": "Negative suction pressure is displayed; this alone does not establish cavitation. Head: H = (p₂ − p₁)/(ρg) + (v₂² − v₁²)/(2g) + z₂ − z₁. IMG_3842: 7.90 − (−0.23) = 8.13 bar, about 82.87 m with ρ = 1,000 kg/m³ and g = 9.81 m/s² before velocity and elevation corrections. Bench displays 82.9 m; its algorithm is undocumented.",
+      "benchCabinetText": "Cabinet: two A/B channels and two charging modules visible, relays/contactors and labelled terminals. Connectors resemble RJ45; neither Ethernet protocol nor pinout follows from their shape. “Pump running” and “FUEL TANK NOT FULL” labels are photographic references without confirmed contact logic.",
+      "benchToolsText": "Visible: bench supervision, gauges/sensors and an infrared thermometer held by the operator. For usable records, log references, units, measuring points, calibration certificates and synchronised acquisition. Infrared surface temperature does not replace internal fluid temperature.",
+      "benchMissing": "Information still missing",
+      "benchMissingText": "Pump/set/engine plates and installed impeller; curve page 2/2 and full test report; actual rated duty and applicable acceptance criterion; timestamped logger export and sensor certificates; pumped-water temperature, elevations and diameters at pressure taps; flow-channel and bypass diagram; electrical diagram, I/O list and exact controller manual; exhaust backpressure measurements, dimensions and loss charts. Photographs do not fill these gaps.",
+      "benchInventory": "Inventory of 28 files · 27 unique images",
+      "benchDuplicate": "Byte-identical copy of",
+      "benchHardware": "Equipment view",
+      "benchScreen": "Supervision screen",
+      "benchCurveSheet": "Curve sheet",
+      "benchCabinet": "Electrical cabinet",
+      "benchExport": "Export this documentary case (JSON)",
+      "benchExportNote": "Includes raw readings, references, four-language analysis and inventory with SHA-256 hashes. Original photos remain in the conversation and are not included in this export."
+    },
+    "de": {
+      "bench": "Prüfstand",
+      "benchSub": "Fotografiertes Praxisbeispiel · Bari · 21. Oktober 2026",
+      "benchLimit": "Visuelle Schulungsablesungen ohne messtechnische Validierung. Keine Herstellergrenzwerte und kein Abnahmeprotokoll. Dieses Beispiel füllt Ihre Einsatzprüfungen nicht aus.",
+      "benchIdentity": "Beobachtete Ausrüstung und Dokumente",
+      "benchIdentityText": "Horizontale Dieselpumpe; kleine vertikale Pumpe daneben, vermutete Jockeyfunktion zu bestätigen. Steuerung mit EN 17451 System beschriftet. Blatt: Atmos GIGA NF 125/250.1, Dokument C125250.1-N37, Revision 01, 08/04/2026, Seite 1/2, 50 Hz, 2 985 U/min. Kennlinien Ø250/260/274 mm; Ø250 markiert. Foto belegt weder montierten Durchmesser noch genaue Aggregatidentität.",
+      "benchReadings": "16 einzelne Bildschirmfotos",
+      "benchReadingNote": "Zahlen wie angezeigt mit ursprünglichem Dezimalpunkt. „olio“ und „acqua“ sind Softwarebezeichnungen: Fühlerpositionen bestätigen. DN65 und DN200 sind Prüfstandskanäle; DN150/DN300 ohne lesbaren Wert bleiben unbekannt. Uhrzeit je Foto nicht festgestellt.",
+      "benchSampling": "Angezeigte Erfassung",
+      "benchHead": "Angezeigte Förderhöhe",
+      "benchFlow": "Angezeigter Gesamtdurchfluss",
+      "benchWarning": "Anzeigeabweichung prüfen",
+      "benchMismatch": "IMG_3836: Kanäle zeigen 18.08 + 106.06 = 124.14 m³/h, Gesamtanzeige jedoch 109 m³/h und Höhe 53.1 m. IMG_3837/3838: gleiche Kanalwerte, Gesamtanzeige 124 m³/h und Höhe 73 m. Ursache unbekannt: Aktualisierung oder Erfassungszustand möglich, keine gesicherte Diagnose. Beide Ablesungen erhalten; nicht automatisch korrigieren.",
+      "benchPlot": "Fotografierte Punkte mit Anzeige ON",
+      "benchPlotNote": "Beschreibende Punkte ohne Verbindung oder Interpolation. Acht ON-Aufnahmen liegen zwischen 2 972 und 3 000 U/min. ON ist der angezeigte Erfassungszustand und kein Nachweis eines stabilen Betriebspunkts. Keine zertifizierte Kennlinie; OFF-Punkte anderer Drehzahlen werden nicht beigemischt.",
+      "benchInterpret": "Technische Auswertung und Grenzen",
+      "benchThermal": "Die nummerierte Folge zeigt „olio“ von 25 auf 87 °C und „acqua“ von 27 auf 76 °C, anschließend mehrfach 76 °C. Dies belegt weder vorgeschriebene Prüfdauer noch Einhaltung einer Motorgrenze: vollständiger Motorcode und Fühlerpositionen fehlen.",
+      "benchNearZero": "IMG_3848: 4 m³/h und 93.9 m bei 3 000 U/min. Geringer Durchfluss, kein belegter Nulldurchfluss. Ein Kanal zeigt weiterhin 3.34 m³/h. Genaue Bypass- und Kühlfunktion erfordern das Hydraulikschema.",
+      "benchSettings": "„Nominal Flow 100 m3/h“ und „T.Preload 10 min“ sind sichtbare Einstellungen. Sie belegen weder tatsächlichen Nennbetriebspunkt noch absolvierte Dauer. Handschriftliche Kennlinienmarkierungen sind keine zertifizierten Messpunkte.",
+      "benchPressure": "Negativer Saugdruck wird angezeigt; dies allein belegt keine Kavitation. Förderhöhe: H = (p₂ − p₁)/(ρg) + (v₂² − v₁²)/(2g) + z₂ − z₁. IMG_3842: 7.90 − (−0.23) = 8.13 bar, etwa 82.87 m bei ρ = 1 000 kg/m³ und g = 9.81 m/s² vor Geschwindigkeits- und Höhenkorrektur. Prüfstand zeigt 82.9 m; Algorithmus nicht dokumentiert.",
+      "benchCabinetText": "Schrank: zwei A/B-Kanäle und zwei Lademodule sichtbar, Relais/Schütze und beschriftete Klemmen. Stecker ähneln RJ45; daraus folgen weder Ethernetprotokoll noch Belegung. „Pump running“ und „FUEL TANK NOT FULL“ sind Fotoreferenzen ohne bestätigte Kontaktlogik.",
+      "benchToolsText": "Sichtbar: Prüfstandsüberwachung, Manometer/Sensoren und Infrarotthermometer in der Hand des Bedieners. Für auswertbare Daten Referenzen, Einheiten, Messstellen, Kalibriernachweise und synchronisierte Erfassung dokumentieren. Infrarot-Oberflächentemperatur ersetzt keine innere Fluidtemperatur.",
+      "benchMissing": "Noch fehlende Informationen",
+      "benchMissingText": "Pumpen-/Aggregat-/Motorschilder und montiertes Laufrad; Kennlinienseite 2/2 und vollständiger Prüfbericht; tatsächlicher Nennpunkt und geltendes Abnahmekriterium; zeitgestempelter Prüfstandsexport und Sensornachweise; Temperatur des Förderwassers, Höhen und Durchmesser an Druckmessstellen; Durchflusskanal- und Bypassschema; Schaltplan, E/A-Liste und genaue Steuerungsanleitung; Abgasgegendruck, Abmessungen und Verlustdiagramme. Fotos schließen diese Lücken nicht.",
+      "benchInventory": "Inventar: 28 Dateien · 27 einzelne Bilder",
+      "benchDuplicate": "Bytegleiches Duplikat von",
+      "benchHardware": "Ausrüstungsansicht",
+      "benchScreen": "Überwachungsbildschirm",
+      "benchCurveSheet": "Kennlinienblatt",
+      "benchCabinet": "Schaltschrank",
+      "benchExport": "Dieses Dokumentationsbeispiel exportieren (JSON)",
+      "benchExportNote": "Enthält Rohablesungen, Referenzen, Analyse in vier Sprachen und Inventar mit SHA-256-Prüfsummen. Originalfotos bleiben im Gespräch und sind in diesem Export nicht enthalten."
+    }
+  }
+}
